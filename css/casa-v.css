@@ -26,7 +26,7 @@ body {
 /* Home Page Carousel */
 
 header.carousel {
-    height: 60%;
+    height: 80%;
 }
 
 header.carousel .item,
@@ -109,4 +109,16 @@ i {
     display: inline-block;
     width: 80%;
     vertical-align: top;
+}
+
+.padding-top {
+    padding-top: 40px;
+}
+
+.padding-left {
+    padding-left: 10px;
+}
+
+.padding-top-small {
+    padding-top: 20px;
 }
