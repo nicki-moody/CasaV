@@ -48,6 +48,12 @@ header.carousel .fill {
     font-size: 100px;
 }
 
+.temp-banner {
+  background-color: gold;
+  text-align: center;
+  font-weight: bold;
+}
+
 /* Pricing Page Styles */
 
 .price {
