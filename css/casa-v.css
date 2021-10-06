@@ -79,6 +79,14 @@ footer {
     margin: 50px 0;
 }
 
+.tab-pane p, h4 {
+    padding-left: 10px;
+}
+
+.col-lg-12 p {
+    padding-left: 10px;
+}
+
 /* Responsive Styles */
 
 @media(max-width:991px) {
